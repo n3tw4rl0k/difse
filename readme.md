@@ -22,12 +22,12 @@ Ensure Docker is running and you have the necessary permissions to pull and mani
 
 1. Clone this repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/n3tw4rl0k/difse.git
     ```
 
 2. Navigate to the directory:
     ```bash
-    cd <directory_name>
+    cd difse
     ```
 
 ## Usage
